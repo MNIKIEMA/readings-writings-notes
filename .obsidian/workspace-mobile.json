@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e136a9fb219a1047",
+        "id": "29fd80248599780b",
         "type": "tabs",
         "children": [
           {
-            "id": "898e6ef3ad5e37f9",
+            "id": "6268dcfaed6838a0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -147,8 +147,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "898e6ef3ad5e37f9",
+  "active": "6268dcfaed6838a0",
   "lastOpenFiles": [
+    "Notes/Transformer.md",
     "Notes/LLM Building Block.md",
     "Notes/anki_with_llm.md"
   ]
